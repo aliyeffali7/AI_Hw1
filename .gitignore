@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Node/JS
+node_modules/
+dist/
+.next/
+.out/
+
+# OS/editor
+.DS_Store
+*.log
+.vscode/
+.idea/
